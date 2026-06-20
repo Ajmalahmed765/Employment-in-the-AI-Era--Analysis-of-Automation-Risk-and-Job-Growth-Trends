@@ -1,0 +1,2 @@
+# Employment-in-the-AI-Era--Analysis-of-Automation-Risk-and-Job-Growth-Trends
+The objective of this project is to analyze how Artificial Intelligence is influencing different jobs, industries, salaries, automation risks, hiring trends, future demand, and employee satisfaction. The project aims to identify which jobs are more vulnerable to automation and which careers are expected to grow in the AI-driven future.
